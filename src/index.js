@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function(){
 
 
 function getCharacters(){
-    fetch("http://localhost:3000/characters", {
+    fetch("https://my-json-server.typicode.com/SamTomashi/moringa-phase-1-week-2-flatacuties/characters", {
         method: "GET",
         headers:{
             "Content-Type":  "application/json"
