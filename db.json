@@ -2,14 +2,14 @@
   "characters": [
     {
       "id": 1,
-      "name": "Mr. Cute",
-      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "name": "Tomashi",
+      "image": "https://randomfox.ca/images/66.jpg",
       "votes": 0
     },
     {
       "id": 2,
       "name": "Mx. Monkey",
-      "image": "https://thumbs.gfycat.com/FatalInnocentAmericanshorthair-max-1mb.gif",
+      "image": "https://randomfox.ca/images/103.jpg",
       "votes": 0
     },
     {
@@ -29,6 +29,16 @@
       "name": "Mme. Panda",
       "image": "https://media.giphy.com/media/ALalVMOVR8Qw/giphy.gif",
       "votes": 0
+    }
+  ],
+  "users":[
+    {
+      "id": 1,
+      "username": "Sam"
+    },
+    {
+      "id":2,
+      "username": "John"
     }
   ]
 }
